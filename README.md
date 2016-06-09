@@ -1,5 +1,5 @@
 # hello-world
-Says 'Hello World
+Says 'Hello World  
 This is a new feature:
 #FEATURE
-feature
+end feature
